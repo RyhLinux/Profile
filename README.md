@@ -21,4 +21,4 @@ Faaaala dev, RyhLinux Aqui!
 
           
   </div>                                                                                                                                                                                                                                                                                                                                                                               
-![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
+</div/>![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
