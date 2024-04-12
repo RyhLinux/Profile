@@ -19,7 +19,7 @@ Opa fi, bão?, RyhLinux Aqui!
     <img alifn="center" height="30" width="40" alt="lua-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" />  
     <img alifn="center" height="30" width="40" alt"latex-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" />
 
-     </div>                                                                                                                                                                                                                                                                                                                                                                               
+</div>                                                                                                                                                                                                                                                                                                                                                                               
   
   
   ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
