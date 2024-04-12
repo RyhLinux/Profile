@@ -17,9 +17,7 @@ Opa fi, bão?, RyhLinux Aqui!
     <img alifn="center" height="30" width="40" alt="pyscript-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pyscript/pyscript-original-wordmark.svg" />
     <img alifn="center" height="30" width="40" alt="linkedin-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
     <img alifn="center" height="30" width="40" alt="lua-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" />  
-    <img alifn="center" height="30" width="40" alt"latex-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" />
-
-</div>                                                                                                                                                                                                                                                                                                                                                                               
+    <img alifn="center" height="30" width="40" alt"latex-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" /> <div>                                                                                                                                                                                                                                                                                                                                                                               
   
   
   ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
