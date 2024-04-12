@@ -21,4 +21,4 @@ Faaaala dev, RyhLinux Aqui!
 
           
   </div>                                                                                                                                                                                                                                                                                                                                                                               
-print("![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)")
+print(![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg))
