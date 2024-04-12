@@ -1,4 +1,4 @@
-Faaaala dev, RyhLinux Aqui!
+Opa fi, bão?, RyhLinux Aqui!
 
 
 <div  align="center"> 
