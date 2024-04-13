@@ -22,8 +22,9 @@ Opa fi, bão?, RyhLinux Aqui!
     <img alifn="center" height="30" width="40" alt="RyhLinux-linkedin-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
     <img alifn="center" height="30" width="40" alt="RyhLinux-lua-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" />  
     <img alifn="center" height="30" width="40" alt="RyhLinux-latex-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" /> 
-                                                                                                                                                                                                                                                                                                                                                                             
+                                                                                                           
 <div align=center
+  <div style="display: inline_block"><br>
   a href=httpsgithub.comRyhLinux
   <div style=display inline_block align=middlebr
   img align=center alt=RyhLinux-Js height=30 width=40 src=httpsraw.githubusercontent.comdeviconsdeviconmastericonsjavascriptjavascript-plain.svg
@@ -34,6 +35,11 @@ Opa fi, bão?, RyhLinux Aqui!
   img align=center alt=RyhLinux-BD height=30 width=40 src=httpscdn.jsdelivr.netghdeviconsdeviconiconsmysqlmysql-original-wordmark.svg
   img align=center alt=RyhLinux-Canva height=30 width=40 src=httpscdn.jsdelivr.netghdeviconsdeviconiconscanvacanva-original.svg
 <div>
+
+
+
+
+
 
 
 
