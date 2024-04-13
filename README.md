@@ -1,4 +1,4 @@
-Opa fi, bão?, RyhLinux Aqui!
+Opa fi, bão?
 
 <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=RyhLinux&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyhLinux&layout=compact&langs_count=16&theme=great-gatsby"/>
@@ -32,7 +32,7 @@ Opa fi, bão?, RyhLinux Aqui!
 
 
 
-# snk
+𝙼𝚢 𝚠𝚘𝚛𝚕𝚍
 
 
 <picture>
