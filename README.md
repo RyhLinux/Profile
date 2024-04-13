@@ -17,23 +17,11 @@ Opa fi, bão?, RyhLinux Aqui!
   <div style="display: inline_block"><br>
     <img align="left" height="250" alt="coding-time" src="code.gif">
     <img alifn="center" height="30" width="40" alt="RyhLinux-linux-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
-    <img alifn="center" height="30" width="40" alt="RyhLinuxpython-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+    <img alifn="center" height="30" width="40" alt="RyhLinux-python-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
     <img alifn="center" height="30" width="40" alt="RyhLinux-pyscript-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pyscript/pyscript-original-wordmark.svg" />
     <img alifn="center" height="30" width="40" alt="RyhLinux-linkedin-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
     <img alifn="center" height="30" width="40" alt="RyhLinux-lua-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" />  
     <img alifn="center" height="30" width="40" alt="RyhLinux-latex-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" /> 
-<div align=center
-  <div style="display: inline_block"><br>
-<diva href=httpsgithub.comRyhLinux
-  <div style=display inline_block align=middlebr
-  img align=center alt=RyhLinux-Js height=30 width=40 src=httpsraw.githubusercontent.comdeviconsdeviconmastericonsjavascriptjavascript-plain.svg
-  img align=center alt=RyhLinux-React height=30 width=40 src=httpsraw.githubusercontent.comdeviconsdeviconmastericonsreactreact-original.svg
-  img align=center alt=RyhLinux-HTML height=30 width=40 src=httpsraw.githubusercontent.comdeviconsdeviconmastericonshtml5html5-original.svg
-  img align=center alt=RyhLinux-CSS height=30 width=40 src=httpsraw.githubusercontent.comdeviconsdeviconmastericonscss3css3-original.svg
-  img align=center alt=RyhLinux-PHP height=30 width=40 src=httpscdn.jsdelivr.netghdeviconsdeviconiconsphpphp-original.svg
-  img align=center alt=RyhLinux-BD height=30 width=40 src=httpscdn.jsdelivr.netghdeviconsdeviconiconsmysqlmysql-original-wordmark.svg
-  img align=center alt=RyhLinux-Canva height=30 width=40 src=httpscdn.jsdelivr.netghdeviconsdeviconiconscanvacanva-original.svg
-<div>
 
 
 
@@ -42,4 +30,4 @@ Opa fi, bão?, RyhLinux Aqui!
 
 
 
-  ![Snake animation](https://github.com/RyhLinux/RyhLinux/blob/output/github-contribution-grid-snake.svg)
+
