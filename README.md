@@ -24,7 +24,7 @@ Opa fi, bão?, RyhLinux Aqui!
     <img alifn="center" height="30" width="40" alt="RyhLinux-latex-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" /> 
 <div align=center
   <div style="display: inline_block"><br>
-  a href=httpsgithub.comRyhLinux
+<diva href=httpsgithub.comRyhLinux
   <div style=display inline_block align=middlebr
   img align=center alt=RyhLinux-Js height=30 width=40 src=httpsraw.githubusercontent.comdeviconsdeviconmastericonsjavascriptjavascript-plain.svg
   img align=center alt=RyhLinux-React height=30 width=40 src=httpsraw.githubusercontent.comdeviconsdeviconmastericonsreactreact-original.svg
