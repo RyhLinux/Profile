@@ -22,7 +22,6 @@ Opa fi, bão?, RyhLinux Aqui!
     <img alifn="center" height="30" width="40" alt="RyhLinux-linkedin-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
     <img alifn="center" height="30" width="40" alt="RyhLinux-lua-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" />  
     <img alifn="center" height="30" width="40" alt="RyhLinux-latex-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" /> 
-                                                                                                           
 <div align=center
   <div style="display: inline_block"><br>
   a href=httpsgithub.comRyhLinux
