@@ -25,8 +25,6 @@ Opa fi, bão?, RyhLinux Aqui!
                                                                                                                                                                                                                                                                                                                                                                              
 <div align=center
   a href=httpsgithub.comRyhLinux
-  img height=180em src=httpsgithub-readme-stats.vercel.appapiusername=RyhLinux&show_icons=true&theme=dracula&include_all_commits=true&count_private=true
-<img height=180em src=httpsgithub-readme-stats.vercel.appapitop-langsusername=RyhLinux&layout=compact&langs_count=7&theme=dracula
   <div style=display inline_block align=middlebr
   img align=center alt=RyhLinux-Js height=30 width=40 src=httpsraw.githubusercontent.comdeviconsdeviconmastericonsjavascriptjavascript-plain.svg
   img align=center alt=RyhLinux-React height=30 width=40 src=httpsraw.githubusercontent.comdeviconsdeviconmastericonsreactreact-original.svg
