@@ -25,9 +25,9 @@ Opa fi, bão?, RyhLinux Aqui!
                                                                                                                                                                                                                                                                                                                                                                              
 <div align=center
   a href=httpsgithub.comRyhLinux
-  <img height=180em src=httpsgithub-readme-stats.vercel.appapiusername=RyhLinux&show_icons=true&theme=dark&include_all_commits=true&count_private=true
- <img height=180em src=httpsgithub-readme-stats.vercel.appapitop-langsusername=RyhLinux&layout=compact&langs_count=7&theme=dark
-<div style=display inline_block align=middlebr
+  img height=180em src=httpsgithub-readme-stats.vercel.appapiusername=RyhLinux&show_icons=true&theme=dark&include_all_commits=true&count_private=true
+<img height=180em src=httpsgithub-readme-stats.vercel.appapitop-langsusername=RyhLinux&layout=compact&langs_count=7&theme=dark
+  <div style=display inline_block align=middlebr
   img align=center alt=RyhLinux-Js height=30 width=40 src=httpsraw.githubusercontent.comdeviconsdeviconmastericonsjavascriptjavascript-plain.svg
   img align=center alt=RyhLinux-React height=30 width=40 src=httpsraw.githubusercontent.comdeviconsdeviconmastericonsreactreact-original.svg
   img align=center alt=RyhLinux-HTML height=30 width=40 src=httpsraw.githubusercontent.comdeviconsdeviconmastericonshtml5html5-original.svg
@@ -35,8 +35,8 @@ Opa fi, bão?, RyhLinux Aqui!
   img align=center alt=RyhLinux-PHP height=30 width=40 src=httpscdn.jsdelivr.netghdeviconsdeviconiconsphpphp-original.svg
   img align=center alt=RyhLinux-BD height=30 width=40 src=httpscdn.jsdelivr.netghdeviconsdeviconiconsmysqlmysql-original-wordmark.svg
   img align=center alt=RyhLinux-Canva height=30 width=40 src=httpscdn.jsdelivr.netghdeviconsdeviconiconscanvacanva-original.svg
-<div
-<hr>
+<div>
+hr
 
 
   ![Snake animation](https://github.com/RyhLinux/RyhLinux/blob/output/github-contribution-grid-snake.svg)
