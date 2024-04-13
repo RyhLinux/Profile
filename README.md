@@ -24,5 +24,6 @@ Opa fi, bão?, RyhLinux Aqui!
     <img alifn="center" height="30" width="40" alt="RyhLinux-latex-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" /> 
                                                                                                                                                                                                                                                                                                                                                                              
   
-  
+
+
   ![Snake animation](https://github.com/RyhLinux/RyhLinux/blob/output/github-contribution-grid-snake.svg)
